@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick.
-We now in branch.Yeah!Ready start.
+We now in branch.Yeah!Ready start.Ready Go.
